@@ -6,9 +6,6 @@ The goal of this project is to make analysis and develop tools to make investmen
 ## Part 1 - Basic Stock Price/Index Dashboard
 There are a lot of stock price dashboards in the market but most of those are not suiting my needs. In this part, I am going to develop tail-make a dashbaord for stock analysis. The first dashboard is aimed to display stock price of one stock and compare the price growth rate of stock(s) with index growth rate. Please find more detail in the [Simple Stock Price Dashboard Folder](SimpleDashboard)
 
-## Part 2 - Specialized Dashboard
-Coming Soon...
-
-## Part 3 - Prediction on S&P 500
+## Part 2 - Prediction on S&P 500
 S&P 500 is the benchmark of the stock performance in the US market. Able to make prediction of the performance of S&P 500 is a valuable to invest in stocks or future contracts.
 
